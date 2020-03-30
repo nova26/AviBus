@@ -13,6 +13,8 @@ https://www.gov.il/BlobFolder/generalpage/real_time_information_siri/he/ICD-SM.p
 
 
 Basically i recorded data such as location and date to sqlite db over several months,
-And with the help of data mining techniques,WEKA and ANN i am trying trying to predict the bus arrival time
+And with the help of data mining techniques,WEKA and ANN i am trying to predict the bus arrival time
 Giving his location and time.
+
+this project is still ongoing.
 
